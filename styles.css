@@ -1,0 +1,21 @@
+.first {
+    background-color: rgb(128, 128, 128);
+    padding: 20px;
+    border: 20px solid rgb(0, 0, 0);
+    margin: 100px;
+    height: 100px;
+    width: 600px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.second {
+    background-color: rgb(72, 72, 72);
+    padding: 20px;
+    border: 20px solid rgb(189, 189, 189);
+    margin: 100px;
+    height: 100px;
+    width: 600px;
+    font-size: 50px;
+    text-align: center;
+}
